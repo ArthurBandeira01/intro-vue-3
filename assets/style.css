@@ -1,0 +1,11 @@
+/* body {
+    background-color: blue;
+} */
+
+.button-disabled {
+    cursor: not-allowed;
+}
+
+.color {
+    color: blueviolet;
+}
